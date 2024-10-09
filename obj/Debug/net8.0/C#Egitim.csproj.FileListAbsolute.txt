@@ -1,0 +1,14 @@
+/Users/emre/Desktop/C#Egitim/bin/Debug/net8.0/C#Egitim
+/Users/emre/Desktop/C#Egitim/bin/Debug/net8.0/C#Egitim.deps.json
+/Users/emre/Desktop/C#Egitim/bin/Debug/net8.0/C#Egitim.runtimeconfig.json
+/Users/emre/Desktop/C#Egitim/bin/Debug/net8.0/C#Egitim.dll
+/Users/emre/Desktop/C#Egitim/bin/Debug/net8.0/C#Egitim.pdb
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.AssemblyInfoInputs.cache
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.AssemblyInfo.cs
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.csproj.CoreCompileInputs.cache
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.dll
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/refint/C#Egitim.dll
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.pdb
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/C#Egitim.genruntimeconfig.cache
+/Users/emre/Desktop/C#Egitim/obj/Debug/net8.0/ref/C#Egitim.dll
